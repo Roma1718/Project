@@ -2,18 +2,18 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #fff8e1; /* светлый желтый */
+    background-color: #fff9e6; /* пастельный желтый */
 }
 
 header {
-    background-color: #fbc02d; /* ярко-желтый */
+    background-color: #f9d95d; /* мягкий желтый */
     color: #fff;
     padding: 10px 0;
     text-align: center;
 }
 
 nav {
-    background-color: #f57f17; /* темно-желтый */
+    background-color: #f7b731; /* пастельный оранжево-желтый */
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -30,7 +30,7 @@ main {
 }
 
 article {
-    background-color: #ffeb3b; /* светло-желтый */
+    background-color: #fef1b8; /* очень светлый желтый */
     margin-bottom: 20px;
     padding: 15px;
     border-radius: 5px;
@@ -38,11 +38,11 @@ article {
 }
 
 h2 {
-    color: #f57f17; /* темно-желтый для заголовков */
+    color: #f9d95d; /* мягкий желтый для заголовков */
 }
 
 footer {
-    background-color: #fbc02d; /* ярко-желтый */
+    background-color: #f9d95d; /* мягкий желтый */
     color: #fff;
     text-align: center;
     padding: 10px 0;
